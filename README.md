@@ -32,4 +32,6 @@ cd SlideShow_SparkHire
 npm install
 ```
 * Open index.html located in the dist directory, into your browser
+
+
 *Author: Nicolas Deschamps*
