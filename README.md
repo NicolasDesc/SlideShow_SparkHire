@@ -5,9 +5,8 @@ I spent 5 hours on this project
 I had two work environment:
 * First, the development environment where I was running 
 ```bash 
-npm run postinstall
-``` 
-at the command prompt and I was loading my web page thanks
+npm start
+``` at the command prompt and I was loading my web page thanks
 to http://localhost:8080. Moreover, I was working with live updating, thus, each time my code was changing the webpack was re-built.
 This way, I was able to debug directly without having to launch again "npm start" to see possible errors in the building process and in the code.
 * Second, the production environment created by the Webpack using 
