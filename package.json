@@ -1,15 +1,13 @@
 {
-  "name": "react-node-starter",
-  "version": "0.2.0",
-  "description": "react starter",
+  "name": "nicolasSlideShow",
+  "version": "1.0.0",
+  "description": "Slideshow application for Spark Hire",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "dev": "webpack-dev-server --hot --inline",
     "postinstall": "webpack -p --progress --colors"
   },
-  "author": "",
+  "author": "Nicolas",
   "license": "ISC",
   "dependencies": {
     "ajv": "^5.2.2",
